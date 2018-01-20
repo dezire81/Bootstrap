@@ -1,0 +1,56 @@
+p, h1 {
+  font-family: "Raleway";
+}
+
+h1 {
+border-top: 0;
+ border-bottom: 10px solid white;
+}
+
+
+
+p{
+  color: grey;
+}
+
+body {
+  background-color: #444;
+  margin: 0;
+}
+
+
+
+.first-row {
+  background-color: #999;
+}
+
+footer {
+  color: gray;
+  text-align: center;
+}
+
+p {
+}
+
+
+
+caption, table, td {
+  border: 1px solid white;
+
+}
+
+
+
+h1 {
+   padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
